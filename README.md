@@ -1,6 +1,7 @@
-# payflow
+<p align="center">
+<img align="center" src="https://github.com/Franklyn-Sancho/PayFlow/blob/main/payflow-logo.png">
+</p>
 
-A new Flutter project.
-
-<img src="https://github.com/Franklyn-Sancho/PayFlow/blob/main/payflow-logo.png">
 <img src="https://github.com/Franklyn-Sancho/PayFlow/blob/main/capa.png">
+
+quase finalizado
